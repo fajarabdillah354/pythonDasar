@@ -1,7 +1,4 @@
-
 from os import stat
-
-
 def get_biodata():
 	nama = input("Masukan Nama : ")
 	tgl = input("Masukan Tempat Tanggal Lahir : ")
